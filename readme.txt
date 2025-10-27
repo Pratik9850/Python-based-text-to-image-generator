@@ -1,21 +1,16 @@
 Text-to-Image Generator using Python + Realistic Vision
 ========================================================
 
-Generate high-quality images from text prompts using the latest
-Realistic Vision v6.0 (HyperVAE) model, fully offline using Python.
-
-No API keys. No internet required after setup. GPU acceleration supported.
-
+No API keys. GPU acceleration supported.
 --------------------------------------------------------
 Features:
 --------------------------------------------------------
-- Text-to-Image generation (txt2img)
-- Image-to-Image generation (img2img, optional input image)
+- Text-to-Image generation
+- Image-to-Image generation 
 - Based on Stable Diffusion Pipeline
-- Tkinter GUI and Flask Web UI (choose any)
-- Transparent PNG output (512x512)
+- Tkinter GUI and Flask Web UI 
+- Transparent PNG output
 - Output folder + preview + download
-- Unfiltered: no safety checker (for full creative control)
 
 --------------------------------------------------------
 System Requirements:
@@ -71,3 +66,4 @@ Place this file in the same directory as `app.py` or `gui.py`
 - To run the desktop GUI (Tkinter):
     python gui.py
 --------------------------------------------------------
+
