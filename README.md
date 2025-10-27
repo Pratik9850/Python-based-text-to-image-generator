@@ -1,8 +1,7 @@
 # Python-based-text-to-image-generator
 This project lets you generate high-quality images from text prompts.
-Text-to-Image Generator using Python + Realistic Vision
-========================================================
 
+========================================================
 No API keys. GPU acceleration supported.
 --------------------------------------------------------
 Features:
